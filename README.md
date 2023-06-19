@@ -1,0 +1,2 @@
+# EORChelm
+Helmholtz frequency calculation 
